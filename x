@@ -1,3 +1,3 @@
 foo master
 bar
-bazzz
+bazzz work
