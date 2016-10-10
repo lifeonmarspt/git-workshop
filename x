@@ -1,3 +1,3 @@
 foo
 bar
-bazzz
+bazzz work
